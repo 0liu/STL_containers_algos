@@ -1,2 +1,2 @@
-# algos
-C++17 templates for programming data structures and algorithms.
+# C++ STL Containers and Algorithms
+C++17 STL container templates implementation and examples of classic programming algorithms.
