@@ -1,2 +1,2 @@
 # C++ STL Containers and Algorithms
-C++17 STL container templates implementation and examples of classic programming algorithms.
+C++ template implementation of STL containers and classic programming algorithms.
